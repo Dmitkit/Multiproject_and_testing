@@ -11,6 +11,7 @@ add_subdirectory(refactoring_and_print)
 add_subdirectory(base_theory_p1)
 add_subdirectory(base_theory_tasks_p1)
 add_subdirectory(obuchaika)
+add_subdirectory(hello_world)
 add_subdirectory(unit_test_example)
 
 set(CMAKE_SUPPRESS_REGENERATION true)
